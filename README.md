@@ -17,7 +17,7 @@ Please note: At this time, the repository includes only the inference code and p
 
 ### Progress
 
-- **In progress:** Preparing the Llambada version 0.5 on 20s audio
+- **In progress:** Preparing the Llambada version 0.2 on 20s audio
 
 - **11/02/2002:** Release the open-source for Llambada
 
