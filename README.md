@@ -15,6 +15,12 @@ This model is trained on totally 4.4k music hours dataset with 2xA100 GPUS. The 
 
 Please note: At this time, the repository includes only the inference code and pre-trained model checkpoint. Training scripts will be added in a future update.
 
+### Progress
+
+- **In progress:** Preparing the Llambada version 0.5 on 20s audio
+
+- **11/02/2002:** Release the open-source for Llambada
+
 ### ☑️ Release checklist
 
 - [x] Model code
