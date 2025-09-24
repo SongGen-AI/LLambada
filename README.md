@@ -1,11 +1,16 @@
 # Llambada-v0 🐑 🎵
 
+[![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-orange.svg)]([songgen/Llambada](https://huggingface.co/songgen/Llambada))
+[![arXiv](https://img.shields.io/badge/arXiv-2505.11872-b31b1b.svg)](https://arxiv.org/abs/2411.01661)
+
 ❗Note: This repository is in-progress for the improvement, please create the issue or contact with us if are there any issues. 
 
 
 Welcome to the official implementation of Llambada version 0 repository! This project provides the tools and resources to use the Llambada model, an advanced system for music generation.
 
 - Paper: [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2411.01661)
+
+- Model: [Hugging Face Dataset:](https://huggingface.co/models/songgen/Llambada) [![Hugging Face](https://img.shields.io/badge/🤗-Model%20Repo-yellow.svg)](https://huggingface.co/songgen/Llambada)
 
 - Project page: [Llambada demo](https://songgen-ai.github.io/llambada-demo/)
 
@@ -26,7 +31,7 @@ Please note: At this time, the repository includes only the inference code and p
 - [x] Model code
 - [x] Inference script
 - [x] Checkpoint
-- [ ] Update mix audio script for vocal and accompaniment
+- [x] Update mix audio script for vocal and accompaniment
 - [ ] Training script
 - [ ] Gradio inference
 - [ ] Model serving
